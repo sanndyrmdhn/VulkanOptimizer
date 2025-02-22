@@ -21,3 +21,14 @@ and optimize performance with code resetprop and optimize HWUI ( Based resetprop
 <h3 align="left">Download:</h3>
 
 Download from the [releases page](https://github.com/sanndyrmdhn/VulkanOptimizer/releases/tag/Releases)
+
+<h3 align="left">Installation:</h3>
+
+- Download and flash the zip in magisk manager
+- Reboot the device
+
+<h3 align="left">Note:</h3>
+
+- Not all devices support Vulkan
+- Not tested in KSU and Apatch
+- DWYOR ( do with your own risk )
