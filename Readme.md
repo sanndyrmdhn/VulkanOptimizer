@@ -1,6 +1,6 @@
 <h1 align="left">Vulkan Optimizer</h1>
 <h3 align="left">Vulkan Optimizer is a module aimed at switching rendering to Vulkan
-and optimize performance with code resetprop and optimize HWUI ( Based resetprop code )</h3>
+and optimize performance with code resetprop and optimize HWUI</h3>
 
 <h3 align="left">Feature module:</h3>
 
